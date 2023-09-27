@@ -1,3 +1,3 @@
 @echo off
-py Moyenne_temps.py
+python Moyenne_temps.py
 pause

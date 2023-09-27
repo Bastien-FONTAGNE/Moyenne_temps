@@ -7,7 +7,7 @@ temps = float('inf')
 
 for i in range(31): #Répétez 31 fois
     
-    temps = float(input("Veuillez entrer une température: ")) #demande de rentrer la température à l'utilisateur
+    temps = float(input("Veuillez entrer un temps ")) #demande de rentrer la température à l'utilisateur
                         
     Total = Total + temperature #Ajoute la temperature à la variable totale
 
